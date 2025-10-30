@@ -69,7 +69,6 @@ To create a comprehensive digital platform that helps users:
 ---
 
 ## 🏗️ System Architecture
-## 🏗️ System Architecture
 <p align="center">
   <img src="https://github.com/mansirajput07/AyurBalance/blob/main/assets/SystemArchitecture.png.png" alt="System Architecture" width="700">
 </p>
@@ -244,9 +243,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries, bug reports, or contributions:
 
-- **GitHub Issues**: [Report Issues](https://github.com/yourusername/AyurBalance/issues)
+- **GitHub Issues**: [Report Issues](https://github.com/mansirajput07/AyurBalance/issues)
 - **Email**: support@ayurbalance.com
-- **Documentation**: [Wiki](https://github.com/yourusername/AyurBalance/wiki)
+- **Documentation**: [Wiki](https://github.com/mansirajput07/AyurBalance/wiki)
 
 ---
 
@@ -254,15 +253,6 @@ For inquiries, bug reports, or contributions:
 
 - Ancient Ayurvedic texts and principles
 - Open-source community
-- All contributors and testers
-
----
-
-## 📝 Project Status
-
-**Current Version**: 1.0.0  
-**Status**: Active Development  
-**Last Updated**: October 2025
 
 ---
 
