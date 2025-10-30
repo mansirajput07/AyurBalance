@@ -69,7 +69,8 @@ To create a comprehensive digital platform that helps users:
 ---
 
 ## 🏗️ System Architecture
-<img width="767" height="916" alt="image" src="https://github.com/user-attachments/assets/5644c8ec-291d-438e-adeb-07716dfe08e3" />
+<img width="767" height="916" alt="image" src="https://github.com/" />
+
 
 
 ### Tech Stack
