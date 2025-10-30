@@ -134,7 +134,7 @@ To create a comprehensive digital platform that helps users:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AyurBalance.git
+git clone https://github.com/mansirajput07/AyurBalance.git
 
 # Navigate to project directory
 cd AyurBalance
