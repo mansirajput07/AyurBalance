@@ -69,7 +69,7 @@ To create a comprehensive digital platform that helps users:
 ---
 
 ## 🏗️ System Architecture
-<img width="767" height="916" alt="image" src="https://github.com/" />
+<img width="767" height="916" alt="image" src="[https://github.com/mansirajput07/AyurBalance/blob/main/assets/SystemArchitecture.png.png/>]"
 
 
 
