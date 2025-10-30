@@ -244,7 +244,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For inquiries, bug reports, or contributions:
 
 - **GitHub Issues**: [Report Issues](https://github.com/mansirajput07/AyurBalance/issues)
-- **Email**: support@ayurbalance.com
 - **Documentation**: [Wiki](https://github.com/mansirajput07/AyurBalance/wiki)
 
 ---
